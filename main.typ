@@ -160,7 +160,7 @@ acessibilidade universal da pesquisa realizada.
 <credenciamento-na-pós-graduação-e-orientações>
 Pretendo me credenciar no Programa de Pós-Graduação em Ciências Biológicas (Biologia Genética) do IB, criando uma linha de pesquisa em biologia de sistemas.
 Tenho a intenção de participar ativamente na construção e desenvolvimento deste programa, inclusive atuando na Comissão Coordenadora de Programa, que carece de novos docentes dispostos a contribuir com a administração do programa.
-Além disso, devido à minha afinidade com as disciplinas instrumentais, considero a possibilidade de eventualmente me cadastrar também no Programa de Pós-Graduação em Ecologia.
+Além disso, considero a possibilidade de eventualmente me cadastrar também no Programa de Pós-Graduação em Ecologia devido à minha afinidade com as disciplinas instrumentais oferecidas pelo programa e por almejar ampliar minha linha de pesquisa para questões mais ecológicas.
 Atualmente, faço parte do Comitê de Acompanhamento de um mestrado no departamento de Genética e Biologia Evolutiva, IB-USP, intitulado "Modularidade fenotípica e genotípica em linhagens de Mus".
 Ao longo do período do estágio probatório e além, estou aberto e disposto a contribuir com minha expertise em outros comitês de acompanhamento, conforme as oportunidades surgirem.
 Além disso, coloco-me à disposição para participar de bancas examinadoras, seja na USP ou em outras instituições de ensino e pesquisa, contribuindo assim para a avaliação e o desenvolvimento de trabalhos acadêmicos em minha área de atuação.
@@ -352,7 +352,7 @@ realizada em parceria com a Dra. Sara Mortada, da ONG
 O Programa de Formação em Ecologia é uma iniciativa recente financiada
 pelo Instituto Serrapilheira e coordenada pela Prof.~Dr.~Flavia
 Marquitti, do Departamento de Genética, Evolução, Microbiologia e
-Imunologia da Universidade Estadual de~#emph[Campinas];~(Unicamp). O
+Imunologia da Universidade Estadual de Campinas (Unicamp). O
 Programa de Formação em Ecologia foi projetado para preparar futuros
 pesquisadores de diversas áreas do conhecimento para enfrentar grandes
 questões nos vários subcampos da ecologia, sendo especialmente voltado
@@ -424,6 +424,8 @@ que nos próximos anos eu atue como editor associado da prestigiada
 revista Evolution, o que representaria uma expansão significativa de
 minha contribuição para o processo editorial e para o campo da biologia
 evolutiva.
+
+#pagebreak()
 
 = Metas para o Biênio inicial (2024-2026):
 <metas-para-o-biênio-inicial>
