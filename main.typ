@@ -1,4 +1,4 @@
-#set page(fill: yellow, margin: (left: 2in))
+#set page(fill: rgb("#e0b840"), margin: (left: 2in))
 
 #line(start: (0%, 5%), end: (8.5in, 5%), stroke: (thickness: 2pt))
 
@@ -265,8 +265,7 @@ herança e evolução de características complexas. Principais tópicos a serem
 Metodologia: Combinarei aulas teóricas com sessões práticas de análise
 de dados. Os alunos terão a oportunidade de trabalhar com conjuntos de
 dados reais, aplicando técnicas de genética quantitativa para investigar
-questões evolutivas. Utilizarei softwares estatísticos e de análise
-genética para demonstrar a aplicação prática destes conceitos.
+questões evolutivas.
 
 Objetivos de aprendizagem: Ao final deste módulo, espero que os alunos
 sejam capazes de: Compreender os princípios básicos da genética
