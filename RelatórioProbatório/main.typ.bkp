@@ -41,7 +41,7 @@ da Universidade de São Paulo*
 #set page(
   paper: "a4",
   background: none,
-  fill: none, 
+  fill: none,
   margin: auto,
   header:[
     #set text(9pt, font: "Skolar PE TEST")
@@ -62,7 +62,7 @@ da Universidade de São Paulo*
 #pagebreak()
 #v(10pt)
 
-#outline(fill: none, 
+#outline(fill: none,
          indent: 2em,
          title: "Conteúdo",
          depth: 2)
@@ -97,17 +97,21 @@ Neste documento, apresento as atividades acadêmicas realizadas durante o perío
 
 No periodo referente ao relatório, publiquei os seguintes artigos:
 
-
 - Ruttenberg, D. M. et al. Queen loss unmasks cryptic worker influence and decentralizes the bumble bee social network. bioRxiv 2025.01. 07.630106 (2025) doi:10.1101/2025.01.07.630106.
 
 - Cai, H., Melo, D. & Des Marais, D. L. Disentangling variational bias: the roles of development, mutation, and selection. Trends in Genetics (2024) doi:10.1016/j.tig.2024.09.008.
-  
-- Forsberg, S. K. G. et al. Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection. bioRxiv 2024.07. 22.604612 (2024) doi:10.1101/2024.07.22.604612.
-  
-- Melo, D., Pallares, L. F. & Ayroles, J. F. Reassessing the modularity of gene co-expression networks using the Stochastic Block Model. PLoS Comput. Biol. 20, e1012300 (2024).
-  
-- Pallares, L. F. et al. Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations. bioRxiv 2023.05.20.541576 (2023) doi:10.1101/2023.05.20.541576.
 
+- Forsberg, S. K. G. et al. Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection. Proc. Natl. Acad. Sci. U. S. A. 122, e2410452122 (2025).
+
+- Melo, D., Pallares, L. F. & Ayroles, J. F. Reassessing the modularity of gene co-expression networks using the Stochastic Block Model. PLoS Comput. Biol. 20, e1012300 (2024).
+
+- Pallares, L. F. et al. Saturating the eQTL map in Drosophila: Genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations. Cell Genom. 0, 101033 (2025).
+
+== Orientações
+
+=== Mestrado
+
+- Co-orientação: Vitor Craveiro Fusco
 
 = Ensino
 <ensino>
@@ -125,15 +129,14 @@ No periodo em questão, ministrei as seguintes discplinas::
 
 - Bio0203 - Genética: disciplina obrigatória do curso de Biologia, oferecida no primeiro semestre,
 com carga horária de 120h, que atende 60 alunos por período.
-- Bio0208 - Processos Evolutivos: disciplina obrigatória do curso de Biologia, oferecida no segundo semestre,
-com carga horária de 120h, que atende 60 alunos por período.
 - BIO0300 - Abordagens Multidisciplinares em Genética: optativa eletiva, carga horária 90h, oferecida nos períodos integral e noturno.
 
 === 2026
 
-- Vamos ver...
+- Bio0203 - Genética: disciplina obrigatória do curso de Biologia, oferecida no primeiro semestre,
+com carga horária de 120h, que atende 60 alunos por período.
 
-== Pós-graduação 
+== Pós-graduação
 
 === 2024
 
@@ -143,7 +146,7 @@ com carga horária de 120h, que atende 60 alunos por período.
 = Extensão
 <Extensão>
 
-== Palestres ministradas 
+== Palestres ministradas
 
 === 2024
 
@@ -153,8 +156,14 @@ com carga horária de 120h, que atende 60 alunos por período.
 - Palestra no ciclo de seminarios do Centro de Estudos do Genoma Humano
   - Título: "Caracterizando a variação da expressão gênica em humanos"
 
-== Cursos de Extensão
+=== 2025
+
+- Palestra: Universidade de Estocolmo
+
+== Extensão
 <cursos-de-extensão>
+
+=== Cursos
 
 - Coordenador do Curso de Modelagem Estatística, que é parte integrante do Programa de Formação em
 Ecologia Quantitativa do Instituto Serrapilheira. Esta coordenação é
@@ -162,20 +171,32 @@ realizada em parceria com a Dra. Sara Mortada, da ONG
 #link("https://re.green/")[re.green];.
   - Carga horaria de 36h
 
+=== Revisão de artigos científicos
+
+=== Palestras
+
+- Da Evolução à Inovação: A Biologia Evolutiva como Fundamento da Biomimética
+- Título: Adaptações e seus Mecanismos Geradores – Diogo Melo (IB-USP)
+
+- Seminário em Estocolmo
 
 == Participação em congressos
 <participação-em-congressos>
 
 Congressos no periodo:
 
-- 2024 - Congresso Brasileiro de Biologia Evolutiva 
+- 2024 - Congresso Brasileiro de Biologia Evolutiva
   - Trabalho apresentado: 100 Generations of High Sugar Selection in D. melanogaster
-
-- 2025 - Evoluiton Meeting - Athens, GA
 
 - 2025 - ESEB - Barcelona
 
 == Bancas de qualificação, defesas, e comitês de acompanhamento
+
+- Siicusp 2024
+
+- ICs 2024 2sem
+- ICs 2025 1sem
+- ICs 2025 2sem
 
 === Qualificações
 
@@ -183,11 +204,31 @@ Congressos no periodo:
   - Orientador: Prof. Dr. Gabriel Henrique Marroig Zambonato
   - Título: “Modularidade e diversificação morfológica e sua relação com dieta e sistemas de acasalamento nos primatas simiiformes (Primates, Haplorrhini)”.
 
+2. Diniz Lima Ferreira, curso de doutorado, área de Biologia Genética
+  - Orientador: Profa. Dra. Tatiana Teixeira Torres
+  - Título: "Evolução do sequenciamento para entender a especialização trófica em moscas varejeiras"
+
+3. Eduardo Gomes Ragnoni, curso de doutorado direto, área de Biologia (Genética)
+  - Orientador: Prof. Dr. Rodrigo Cogni
+  - Título: “Troca de hospedeiros por patógenos: Abordagens meta-analíticas e experimentais utilizando interações entre insetos e bactérias”.
+
+4. Henry Angel Bonilla Bruno, curso de doutorado, área de Biologia (Genética)
+  - Orientadora: Profa. Dra. Maria Dulcetti Vibranovski
+  - Tema: “Evolução e papel dos territórios cromossômicos na regulação transcricional do cromossomo X durante a espermatogênese em Drosophila”
+
+=== Defesas
+
+1. Mestrado: Rafael Viana Amaral, mestrado, programa de Ecologia 
+  - Orientador: Prof. Dr. Rodrigo Cogni
+  - Título: "Variação clinal e plasticidade fenotípica de tolerância ao frio em populações naturais de Drosophila melanogaster sul-americanas"
+
 === Comitês de acompanhamento
 
 1. Vitor Craveiro Fusco
 
 2. Lucas Rodrigues de Freitas
+
+3. Alfredo Antonio Reis Marin
 
 #pagebreak()
 
